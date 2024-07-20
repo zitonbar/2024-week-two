@@ -1,0 +1,44 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+
+body {
+    line-height: 1.5;
+}
+img {
+    vertical-align: middle;
+}
+
+/* container */
+.container {
+    width: 1296px;
+    margin: 0 auto;
+}
+
+/* font size */
+.fz-128 {
+    font-size: 128px;
+}
+.fz-64 {
+    font-size: 64px;
+}
+.fz-24 {
+    font-size: 24px;
+}
+.fz-20 {
+    font-size: 20px;
+}
+
+/* color */
+.text-green {
+    color: #00FFA3;
+}
+.text-white {
+    color: #ffffff;
+}
+
+/* background */
+.bg-black {
+    background-color: #000;
+}
