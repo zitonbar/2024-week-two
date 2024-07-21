@@ -117,6 +117,10 @@ a {
     display: block;
 }
 /* padding */
+.p-16 {
+    padding: 16px;
+}
+/* padding-y */
 .py-160 {
     padding: 160px 0;
 }
@@ -132,18 +136,24 @@ a {
 .py-12 {
     padding: 12px 0;
 }
+
+/* padding-top */
+
 .pt-72 {
     padding-top: 72px;
 }
-.pb-32 {
-    padding-bottom: 32px;
-}
+/* padding-right */
 .pr-16 {
     padding-right: 16px;
 }
-.p-16 {
-    padding: 16px;
+/* padding-bottom */
+.pb-32 {
+    padding-bottom: 32px;
 }
+.pb-16 {
+    padding-bottom: 16px;
+}
+
 /* margin */
 
 /* margin-x */
